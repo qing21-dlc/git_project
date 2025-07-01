@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-initial Report  dlc is shuaige
-Updated data   
-“Security pathch applied”
-initial Report
-Updated data
-this is other branch
+main's update
